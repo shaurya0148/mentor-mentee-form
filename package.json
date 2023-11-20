@@ -1,0 +1,23 @@
+{
+  "name": "mentor_mentee",
+  "version": "1.0.0",
+  "description": "mentor mentee page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaurya0148/mentor-mentee-form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaurya0148/mentor-mentee-form/issues"
+  },
+  "homepage": "https://github.com/shaurya0148/mentor-mentee-form#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}
